@@ -37,7 +37,7 @@ bank-account-class/
 from src.bankaccount import BankAccount
 
 # Create bank accounts
-account1 = BankAccount("Tomi", 100)
+account1 = BankAccount("Josh", 100)
 account2 = BankAccount("Sarah", 50)
 
 # Deposit money
