@@ -25,7 +25,7 @@ bank-account-class/
 ## Installation
 1. Clone this repository:
 ```bash
-   git clone https://github.com/yourusername/bank-account-class.git
+   git clone https://github.com/tomi2077/bank-account-class.git
 ```
 2. Navigate to the project directory:
 ```bash
