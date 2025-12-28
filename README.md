@@ -14,9 +14,11 @@ This repository contains a simple Python banking class that models basic banking
 ```
 bank-account-class/
 ├── src/
+│   ├── __pycache__/
 │   └── bankaccount.py
+├── .gitignore
 ├── README.md
-└── .gitignore
+└── test.py
 ```
 
 ## Requirements
